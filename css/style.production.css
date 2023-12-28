@@ -26,6 +26,16 @@ h3 {
   font-weight: 700;
 }
 
+div {
+  margin: auto;
+  width: 50%;
+}
+
+form {
+  margin: auto;
+  width: 50%;
+}
+
 a {
   color: #357b70;
 }
@@ -65,6 +75,13 @@ button:hover,
 button:focus {
   cursor: pointer;
   opacity: 0.8;
+}
+
+svg {
+  height: 400px;
+  width: 500px;
+  margin: 40px;
+  width: 50%;
 }
 
 .profile_portrait {
@@ -149,6 +166,7 @@ button:focus {
 .grid_item {
   background-color: lightgray;
   padding: 20px;
+  width: 50%;
 }
 
 .grid__item:last-child {
