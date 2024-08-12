@@ -136,6 +136,7 @@ button:focus {
 .grid_item {
   background-color: lightgray;
   padding: var(--primary-padding);
+  justify-content: center;
 }
 
 .grid__item:last-child {
