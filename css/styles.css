@@ -221,6 +221,7 @@ button:focus,
   opacity: 0.8;
 }
 
+
 @keyframes color-change {
   0% {
     fill: #edc655;
