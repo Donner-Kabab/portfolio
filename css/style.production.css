@@ -11,10 +11,6 @@ body {
   line-height: 1.6;
 }
 
-div {
-  padding-left: 80px;
-}
-
 h1 {
   font-size: 30px;
   font-weight: 700;
@@ -36,8 +32,12 @@ form {
   width: 50%;
 }
 
+.text {
+  margin-left: 60px;
+}
+
 a {
-  color: #357b70;
+  color: #000;
 }
 
 a:hover,
@@ -106,7 +106,7 @@ svg {
 
 .profile {
   max-width: 700px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 * {
@@ -161,12 +161,14 @@ svg {
   -ms-grid-columns: 1fr 20px 1fr 20px 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
+  margin-left: 40px;
 }
 
 .grid_item {
   background-color: lightgray;
   padding: 20px;
-  width: 50%;
+  width: 70%;
+  margin-left: 70px;
 }
 
 .grid__item:last-child {
