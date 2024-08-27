@@ -11,9 +11,14 @@ body {
   line-height: 1.6;
 }
 
+div {
+  padding-left: 80px;
+}
+
 h1 {
   font-size: 30px;
   font-weight: 700;
+  padding-left: 80px;
 }
 
 h2 {
