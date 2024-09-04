@@ -37,7 +37,7 @@ form {
 }
 
 a {
-  color: #000;
+  color: #fff;
 }
 
 a:hover,
@@ -50,7 +50,7 @@ a:visited {
 }
 
 a:active {
-  color: #75975e;
+  color: #533b51;
 }
 
 input,
@@ -63,7 +63,7 @@ button {
 button {
   border: none;
   font-family: inherit;
-  background-color: #75975e;
+  background-color: #533b51;
   color: #ffffff;
   text-decoration: none;
   padding: 10px;
@@ -126,7 +126,7 @@ svg {
   display: flex;
   width: 100%;
   padding: 20px;
-  background-color: #75975e;
+  background-color: #533b51;
 }
 
 .page-header_item {
@@ -246,7 +246,7 @@ button {
   display: inline-block;
   /* takes the font from the outer container */
   font-family: inherit;
-  background-color: #75975e;
+  background-color: #533b51;
   color: #ffffff;
   text-decoration: none;
   padding: 10px;
@@ -262,7 +262,7 @@ button {
   display: inline-block;
   /* takes the font from the outer container */
   font-family: inherit;
-  background-color: #75975e;
+  background-color: #533b51;
   color: #ffffff;
   text-decoration: none;
   padding: 10px;
